@@ -9,7 +9,7 @@ A marimo app that includes a typed up summary of marimo docs 0.2.4
 * **Always make sure to initially review https://docs.marimo.io** 
 
 ## App author/layout/design
-* @vrtnis(https://github.com/vrtnis/)
+* [@vrtnis](https://github.com/vrtnis/)
 * Inspired by the streamlit cheat sheet
 
 ## Versioning
