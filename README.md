@@ -2,8 +2,6 @@
 
 A marimo app that includes a typed up summary of marimo docs 0.2.4
 
-https://github.com/vrtnis/marimo-cheat-sheet
-
 
 ## Source:
 
@@ -11,7 +9,7 @@ https://github.com/vrtnis/marimo-cheat-sheet
 * **Always make sure to initially review https://docs.marimo.io** 
 
 ## App author/layout/design
-* @vrtnis (https://github.com/vrtnis/)
+* @vrtnis(https://github.com/vrtnis/)
 * Inspired by the streamlit cheat sheet
 
 ## Versioning
