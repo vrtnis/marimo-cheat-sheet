@@ -1,34 +1,34 @@
-# marimo Cheat Sheet
+# marimo cheat sheet
 
 A marimo app that includes a typed up summary of marimo docs 0.2.4
 
 https://github.com/vrtnis/marimo-cheat-sheet
 
 
-# Source:
+## Source:
 
 * [docs.marimo.io](https://docs.marimo.io)
 * **Always make sure to initially review https://docs.marimo.io** 
 
-# App author/layout/design
+## App author/layout/design
 * @vrtnis (https://github.com/vrtnis/)
 * Inspired by the streamlit cheat sheet
 
-# Versioning
+## Versioning
 * Based on marimo 0.2.4 
 * **Always make sure to initially review https://docs.marimo.io** 
 
-# Requirements
+## Requirements
 marimo (pip install marimo)
 
 
 
-# Screenshot
+## Screenshot
 ![marimo Cheat Sheet](images/marimo_cheat_sheet_0_2_4.png)
 
 ---
 
-# Here is what is in the cheat sheet
+
 
 ## Install and Import
 
