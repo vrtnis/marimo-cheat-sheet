@@ -1,6 +1,6 @@
 # marimo cheat sheet
 
-A marimo app that includes a typed up summary of marimo docs 0.2.4
+A marimo app that includes a typed up summary of marimo docs 0.2.5
 
 
 ## Source:
@@ -13,8 +13,8 @@ A marimo app that includes a typed up summary of marimo docs 0.2.4
 * Inspired by the streamlit cheat sheet
 
 ## Versioning
-* Based on marimo 0.2.4 
-* **Always make sure to initially review https://docs.marimo.io** 
+* Based on marimo 0.2.5 
+
 
 ## Requirements
 marimo (pip install marimo)

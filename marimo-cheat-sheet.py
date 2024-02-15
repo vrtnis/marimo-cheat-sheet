@@ -2,14 +2,14 @@ import marimo
 
 
 
-__generated_with = "0.2.4"
+__generated_with = "0.2.5"
 app = marimo.App(width="full")
 
 
 @app.cell
 def __(mo):
     
-    mo.md("## **marimo** cheat sheet  0.2.4")
+    mo.md("## **marimo** cheat sheet  0.2.5")
     
     return
 
