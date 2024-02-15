@@ -22,7 +22,7 @@ marimo (pip install marimo)
 
 
 ## Screenshot
-![marimo Cheat Sheet](images/marimo_cheat_sheet_0_2_4.png)
+![marimo Cheat Sheet](images/marimo_cheat_sheet_0_2_5.png)
 
 ---
 
